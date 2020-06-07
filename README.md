@@ -1,4 +1,5 @@
 # Complete-cms-blog-website-using-PHP-and-Bootstrap
-# Before start upload SQL file on your server
-# Don't Remove footer notes
-# Always give credit to creator
+# Before starting ,  upload SQL file on your server
+# Download Fontawesome in Main Directory otherwise icon will not shown
+# Download CKEditor and upload on Main Directory to use Visual Editor.
+# Don't Remove Footer Credit
