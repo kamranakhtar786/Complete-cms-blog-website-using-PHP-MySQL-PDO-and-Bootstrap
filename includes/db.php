@@ -1,5 +1,5 @@
 <?php
-$app_name = "Technolifehacker.com";
+$app_name = "Kafarooqui.in";
 
 $db = "mysql:host=localhost;dbname=cms";
 
