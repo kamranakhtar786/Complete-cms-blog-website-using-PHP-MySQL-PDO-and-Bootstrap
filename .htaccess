@@ -22,18 +22,6 @@ RewriteRule ^tag/([a-zA-Z0-9-/]+)$ index.php?tag=$1
  RewriteRule ^page/([0-9-/]+)$ index.php?page=$1
  RewriteRule ^page/([0-9-/]+)/ index.php?page=$1
 
-  RewriteRule ^tinyurl/([0-9-/]+)$ /tinyurl?link=$1
- RewriteRule ^tinyurl/([0-9-/]+)/ /tinyurl?link=$1
-
-
-
- 
-
-
-
- 
-
-
 
  RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
